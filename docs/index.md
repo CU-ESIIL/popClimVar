@@ -9,7 +9,7 @@ color), nonequilibrium conditions (i.e. comparing stochastic distributions throu
 
 
 ## Project Proposal
-[Project proposal available here](main.pdf)
+[Project proposal available here](../assets/proposal/main.pdf)
 
 
 ## Group Members
@@ -43,7 +43,7 @@ color), nonequilibrium conditions (i.e. comparing stochastic distributions throu
 
 
 ## Meeting Notes and Agendas
-- We will release all meeting notes and associated documents openly, with copies [accessible here](meetingNotes.md)
+- We will release all meeting notes and associated documents openly, with copies [accessible here](../assets/meetingNotes.md)
 
 
 
