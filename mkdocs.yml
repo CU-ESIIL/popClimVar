@@ -14,7 +14,8 @@ copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 nav:
   - Home: index.md
   - Meeting Notes:
-       - notes: resources/meetingNotes.md
+       - 1st meeting notes: resources/meetingNotes1.md
+       - 2nd meeting notes: resources/meetingNotes2.md
   - Projects:
        - project information: resources/projects.md
   - Training resources:
