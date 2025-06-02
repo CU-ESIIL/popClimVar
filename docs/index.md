@@ -14,21 +14,25 @@ color), nonequilibrium conditions (i.e. comparing stochastic distributions throu
 
 ## Group Members
 
-+ Tad Dallas				<-   Theoretical Ecology
-+ Lauren Shoemaker	<- 	Population and community ecology
-+ Jon Walter				<-  Population and community ecology
-+ Lauren Hallett		<- 	Population and community ecology
-+ Brett Melbourne		<- 	Applied math
-+ Laura Dee				  <-  Population and community ecology
-+ Anthony Pignatelli<- 	Spatial ecology
-+ Lauren Holian			<- 	Movement ecology
-+ Jasmin Albert			<- 	Population and community ecology
-+ Shaopeng Wang			<- 	Theoretical Ecology
-+ Megan Szojka			<- 	Population and community ecology
-+ Dusty Gannon			<- 	Population and community ecology
-+ Amy Patterson			<- 	Population and community ecology
-+ Grace Di Cecco		<- 	Computer science/data analytics
-+ Meghan Hayden			<- 	Spatial ecology
+
+| Person | Expertise |
+| -------- | ------- |
+| Tad Dallas				 |    Theoretical Ecology    |
+| Lauren Shoemaker	 |  	Population and community ecology  |
+| Jon Walter				 |   Population and community ecology  |
+| Lauren Hallett		 |  	Population and community ecology  |
+| Brett Melbourne		 |  	Applied math  |
+| Laura Dee				   |   Population and community ecology  |
+| Anthony Pignatelli |  	Spatial ecology  |
+| Lauren Holian			 |  	Movement ecology  |
+| Jasmin Albert			 |  	Population and community ecology  |
+| Shaopeng Wang			 |  	Theoretical Ecology  |
+| Megan Szojka			 |  	Population and community ecology  |
+| Dusty Gannon			 |  	Population and community ecology  |
+| Amy Patterson			 |  	Population and community ecology  |
+| Grace Di Cecco		 |  	Computer science/data analytics  |
+| Meghan Hayden			 |  	Spatial ecology  |
+
 
 
 
