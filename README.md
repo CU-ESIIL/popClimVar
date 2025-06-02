@@ -32,9 +32,6 @@ color), nonequilibrium conditions (i.e. comparing stochastic distributions throu
 + Meghan Hayden			<- 	Spatial ecology
 
 
-![image](https://github.com/user-attachments/assets/bb23636d-d4c6-4cc1-9e87-e888b12c58b9)
-
-
 
 ## Repository Structure
 - **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
