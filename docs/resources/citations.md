@@ -24,6 +24,8 @@ This document serves as a guide for managing citations and collecting research n
   pages   = {123-145},
   doi     = {10.1000/jds.2021.15.4}
 }
+```
+
 
 
 
