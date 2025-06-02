@@ -9,7 +9,7 @@ color), nonequilibrium conditions (i.e. comparing stochastic distributions throu
 
 
 ## Project Proposal
-[Project proposal available here](../assets/proposal/main.pdf)
+[Project proposal available here](../assets/main.pdf)
 
 
 ## Group Members
