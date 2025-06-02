@@ -43,6 +43,10 @@ color), nonequilibrium conditions (i.e. comparing stochastic distributions throu
 - Regular updates to keep all group members informed and engaged with the project's progress and direction.
 
 
+
+
+
+
 ## Contributing to This Repository
 - Contributions from all group members are welcome.
 - Please adhere to these guidelines:
@@ -50,8 +54,16 @@ color), nonequilibrium conditions (i.e. comparing stochastic distributions throu
   - Document major changes in the meeting notes.
   - Review and merge changes through pull requests for oversight.
 
+
+
+<!--
 ## Getting Help
 - If you encounter any issues or have questions, please refer to the [ESIIL Support Page](https://esiil-support-page-url/) or contact the repository maintainers directly.
+--> 
+
+
+
+
 
 <!--
 ## Customize Your Repository
