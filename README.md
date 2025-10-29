@@ -12,38 +12,29 @@ Climate change is expected to alter global temperature and precipitation pattern
 [Project proposal available here](main.pdf)
 
 
-## Group Members
-
-+ Tad Dallas				<-   Theoretical Ecology
-+ Lauren Shoemaker	<- 	Population and community ecology
-+ Jon Walter				<-  Population and community ecology
-+ Lauren Hallett		<- 	Population and community ecology
-+ Brett Melbourne		<- 	Applied math
-+ Laura Dee				  <-  Population and community ecology
-+ Anthony Pignatelli<- 	Spatial ecology
-+ Lauren Holian			<- 	Movement ecology
-+ Jasmin Albert			<- 	Population and community ecology
-+ Shaopeng Wang			<- 	Theoretical Ecology
-+ Megan Szojka			<- 	Population and community ecology
-+ Dusty Gannon			<- 	Population and community ecology
-+ Amy Patterson			<- 	Population and community ecology
-+ Grace Di Cecco		<- 	Computer science/data analytics
-+ Meghan Hayden			<- 	Spatial ecology
-
-
 
 ## Repository Structure
-- **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
-- **Data Processing**: Scripts for cleaning, merging, and managing datasets.
-- **Visualization**: Code for creating figures, charts, and interactive visualizations.
+
+All projects will be developed on the GitHub organization: 
+
+> https://github.com/popClimVar
+
+Develop the project in whatever way is best for the group. I use [this general structure](https://github.com/dallasLab/project-template) for all my projects, but feel free to modify/ignore/expand as needed.
+
+
 
 
 ## Meeting Notes and Agendas
-- Regular updates to keep all group members informed and engaged with the project's progress and direction. See 
+
+- Regular updates to keep all group members informed and engaged with the project's progress and direction. These will be released for the [first](https://cu-esiil.github.io/popClimVar/resources/meetingNotes1/) and [second](https://cu-esiil.github.io/popClimVar/resources/meetingNotes2/) meetings. 
+
+
 
 
 ## Contributing to This Repository
+
 - Contributions from all group members are welcome.
+
 - Please adhere to these guidelines:
   - Ensure commits have clear and concise messages.
   - Document major changes in the meeting notes.
