@@ -3,16 +3,9 @@
 # Project Kickoff and Strategy
 
 ## Meeting Details
-- **Dates:** 
-- **Times:** 
-- **Location:** 
+- **Dates:** November 2025
+- **Location:** CU Boulder
 - **Facilitator:** 
-
-
-
-## Attendees
-- List of attendees
-
 
 
 
@@ -26,15 +19,10 @@
 
 #### Opening Remarks
 - Welcoming speech and outline of the week's objectives.
+- Collaboration norms and some scoping 
 
 #### Project Overview
-- Presentation of the project goals and significance.
-
-#### Theoretical Framework
-- Discussion on the theoretical underpinnings of the project.
-
-#### Data Overview
-- Review available data and any gaps that need addressing.
+- A couple of project pitches to get the synchrony juices flowing before digging in a bit more and trying to see what could be broken out into subgroups. 
 
 
 
@@ -44,19 +32,12 @@
 
 ### Day 2-4: Deep Dives
 
-#### Daily Goals
-- Outline specific goals for each day.
+#### Projects emerge
++ We came up with a total of 5 projects that seemed worthy to push forward, and the rest of the week was spent in subgroups, coming back together to discuss hurdles and ideas. 
 
++ All projects have a GitHub repo associated, and will be made public when group lead(s) deem appropriate (but certainly on publication of the corresponding manuscript). 
 
-#### Task Assignments
-- Assign tasks and areas of responsibility to team members.
-
-
-
-#### Evening Social and Soft Work Sessions
-- Casual gatherings to further discuss ideas and foster team bonding.
-
-
++ Somewhere in here we went for a hike as well, which was lovely. Lots of teambuilding, a good amount of coffee, and lots of science. 
 
 
 
@@ -65,26 +46,18 @@
 ### Day 5: Roadmap and Closure
 
 #### Project Roadmap
-- Draft a detailed plan of action for the project going forward.
++ [GitHub organization](https://github.com/orgs/popClimVar/) is there and projects are flowing. Made plans to continue virtual meetings every month. 
+
++ A [GitHub project board](https://github.com/orgs/popClimVar/projects/3/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C277211767%2C%22Sub-issues+progress%22%2C%22Linked+pull+requests%22%5D) will be used to keep track of each individual project. Some conversations will take place there, but more will take place in monthly meetings and through periodic emails. 
 
 
-#### Responsibilities
-
-Confirm individual responsibilities and deadlines.
-
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ]
 
 
-#### Review and Feedback
-- Reflect on the week's discussions and adjust the project plan as needed.
 
 
-#### Closing Remarks
-- Summarize achievements and express appreciation for the team's efforts.
+### Closing Remarks
+
+- The team is amazing. I (Tad Dallas) took a lot of care (with a huge help from Lauren Shoemaker) in making sure that we had a good group of different career stages and experiences to create a situation where we could really push forward on projects spanning community ecology, theoretical ecology, policy, and climate science. I left a 3 month old baby at home to attend the first meeting (thanks to ESIIL for helping with childcare!) and it was a great reminder of the fun of science after being a bit removed from it. 
 
 
 
@@ -97,57 +70,6 @@ Confirm individual responsibilities and deadlines.
 
 
 
---- 
-
-
-## Detailed Notes
-
-### Day 1 Notes
 
 
 
-### Day 2 Notes
-
-
-
-### Day 3 Notes
-
-
-
-
-### Day 4 Notes
-
-
-
-
-### Day 5 Notes
-
-
-
-
-
---- 
-
-
-
-
-
-
-
-## Reflections and Comments
-
-
-
-
-
-## Next Steps
-
-- Schedule for follow-up meetings or checkpoints.
-- Outline of expected progress before the next primary meeting.
-
-
-
-
-## Additional Documentation
-
-- (Include or link to any additional documents, charts, or resources that were created or referenced during the meeting.)

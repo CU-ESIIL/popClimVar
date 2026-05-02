@@ -17,7 +17,7 @@ nav:
        - 1st meeting notes: resources/meetingNotes1.md
        - 2nd meeting notes: resources/meetingNotes2.md
   - Projects:
-       - project information: resources/projects.md
+       - project information: https://github.com/orgs/popClimVar/projects/3/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C277211767%2C%22Sub-issues+progress%22%2C%22Linked+pull+requests%22%5D
   - Training resources:
        - orientation slides: resources/slides.md
        - code of conduct: resources/code-of-conduct.md
